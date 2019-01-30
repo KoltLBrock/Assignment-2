@@ -1,0 +1,45 @@
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.deps.json
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.runtimeconfig.json
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.runtimeconfig.dev.json
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.dll
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.pdb
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.Views.dll
+C:\CIDM-4390\Assignment 2\bin\Debug\netcoreapp2.2\Assignment 2.Views.pdb
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.csprojAssemblyReference.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.csproj.CoreCompileInputs.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.RazorAssemblyInfo.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.RazorAssemblyInfo.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.AssemblyInfoInputs.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.AssemblyInfo.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.TagHelpers.input.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.TagHelpers.output.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.RazorCoreGenerate.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.RazorTargetAssemblyInfo.cache
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.RazorTargetAssemblyInfo.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.Views.pdb
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.dll
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.pdb
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Assignment 2.csproj.CopyComplete
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Users\Delete.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Users\Details.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Members\Create.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Members\Delete.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Members\Details.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Members\Edit.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Members\Index.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Create.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\CIDM-4390\Assignment 2\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
